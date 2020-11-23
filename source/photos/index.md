@@ -28,6 +28,12 @@ comments: "false"
 			</div>
 			<figcaption>三峡</figcaption>
 		</figure>
+        <figure class="thumb">
+        	<div class="myalbums-box">
+        		<a href="./cat/"><img src="https://raw.githubusercontent.com/huixueee/00/master/photo/cat/封面1.jpg" class="nofancybox" width="100%" height="100%"></a>
+        	</div>
+        	<figcaption>西安</figcaption>
+        </figure>
 	</div>
 </div>
 
