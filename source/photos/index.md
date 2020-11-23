@@ -18,13 +18,13 @@ comments: "false"
 	<div class="albums">
 		<figure class="thumb">
 			<div class="myalbums-box">
-				<a href="./cat/"><img src="http://pnxkcdttf.bkt.clouddn.com/123.png" class="nofancybox" width="100%" height="95%"></a>
+				<a href="./cat/"><img src="https://raw.githubusercontent.com/huixueee/00/master/photo/cat/封面1.jpg" class="nofancybox" width="100%" height="100%"></a>
 			</div>
 			<figcaption>猫咖</figcaption>
 		</figure>
 		<figure class="thumb">
 			<div class="myalbums-box">
-				<a hrefs="./sanxia/"><img src="http://pnxkcdttf.bkt.clouddn.com/123.png" class="nofancybox" width="100%" height="95%"></a>
+				<a href="./sanxia/"><img src="https://raw.githubusercontent.com/huixueee/00/master/photo/sanxia/QQ图片20181205210005.png" class="nofancybox" width="100%" height="100%"></a>
 			</div>
 			<figcaption>三峡</figcaption>
 		</figure>
